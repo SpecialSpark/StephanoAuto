@@ -1,0 +1,17 @@
+1. We want to run customizable autons
+
+2. We need to explore limits of elastic, make multiple runnable auton paths
+
+3. We need to explore limits of FRC pathplanner and/or choreo, we need to learn elastic and shuffleboard
+
+4. we need to learn FRC pathplanner or choreo, we need to test auton paths
+
+5. we need a reliable drive train, we need teleoperated control, we need field communication
+
+6. We need an understanding of the command system to follow paths and schedule robot teleop
+
+7. We need driver joystick, telemetry (robot position), drive train subsystem
+
+8. We need strong understandings of gyro, swerve modules, kinematics (yikes) and any other mathematical magics you don't yet know
+
+9. constants
